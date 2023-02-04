@@ -1,8 +1,9 @@
-# LDR Sensor with ESP8266-12E + Blynk IoT
+# Automated Gate System designed with Arduino Uno, Ultrasonic Sensor, Relay and Switch
 
 <img src="/overall.jpg">
 
-This project involves using an LDR sensor and a button in a Blynk app to control a servo motor and an LED. The LDR sensor is used to detect the ambient light level and open or close the servo motor based on the sensor's reading. The button in the Blynk app is used to turn an LED on or off. This project demonstrates the ability to remotely control physical devices using a Blynk app and an ESP8266 microcontroller.
+This project is about creating an automated gate system using an Arduino microcontroller. The system is designed to control the opening and closing of the gate through the use of an ultrasonic sensor, a relay, a servo motor, and buttons. The code provided incorporates the functionality of the gate opening when a car approaches it and also allows manual opening by pressing a button. The project is a simple yet effective demonstration of how microcontrollers like the Arduino can be used to automate physical systems and control various components such as relays, LEDs, and servo motors.
+
 
 
 <br/>
