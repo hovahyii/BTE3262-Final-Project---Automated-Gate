@@ -68,7 +68,7 @@ This project is about creating an automated gate system using an Arduino microco
 | +           | 5V                   |
 | -           | D5                   |
 | C           | 3.3V                 | 
-| NC          | D13                  | 
+| NO          | D13                  | 
 
 ### Green LED
 | Pins        | Arduino Uno   |
