@@ -52,7 +52,7 @@ void loop() {
     digitalWrite(blueLedPin, LOW);
     Serial.print("Button Press: 0\n");
 
-      if (distance > 0 && distance <= 5) {
+      if (distance > 0 && distance <= 10) {
         digitalWrite(greenLedPin, HIGH);
         myServo.write(90);
       } else  {
